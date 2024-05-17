@@ -1,0 +1,2 @@
+permission: permission.for.access.to.server
+deny-message: "<red>You haven't unlocked access to this server yet!"
